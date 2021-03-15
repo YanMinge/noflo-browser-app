@@ -160,7 +160,7 @@
             }
         },
         {
-            "data": "Hello World!",
+            "data": "Hello Yanminge!",
             "tgt": {
                 "process": "core/Kick_ey1nh",
                 "port": "data"
